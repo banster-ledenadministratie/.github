@@ -4,8 +4,6 @@ Banster is Dutch membership management and association software for verenigingen
 
 We help boards and administrators manage members, events, payments, communications and more — all from a central, secure cloud platform.
 
----
-
 ## What Banster Offers
 
 - Member administration and custom fields
@@ -16,13 +14,9 @@ We help boards and administrators manage members, events, payments, communicatio
 - Secure member portal and centralized data management
 - REST API for integrations and external systems
 
----
-
 ## API
 
 Banster provides a REST API that allows secure access to your data.
-
----
 
 ## Website
 
