@@ -18,6 +18,8 @@ We help boards and administrators manage members, events, payments, communicatio
 
 Banster provides a REST API that allows secure access to your data.
 
+🔗 [API documentation](https://github.com/banster-ledenadministratie/api)
+
 ## Website
 
 🌐 https://banster.nl
